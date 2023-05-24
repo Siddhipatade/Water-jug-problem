@@ -20,6 +20,8 @@ Here, let x denote the 4-gallon jug and y denote the 3-gallon jug.
 | 9.	   |(x,y)	         | If (x+y)<4	  | (x+y,0)	     |Pour all water from 3 gallon jug to the 4 gallon jug                  |
 | 10.	  |(x,y)	         |if (x+y)<3	   | (0, x+y)	    |Pour all water from the 4 gallon jug to the 3 gallon jug              |
 
+![image](https://github.com/Siddhipatade/Water-jug-problem/assets/91780318/c686d388-c60e-49f3-ad1f-514d3d7afcae)
+
 
 ### Solution of water jug problem according to the production rules
 |S.No.	| 4 gallon jug contents	| 3 gallon jug contents |	Rule followed |
