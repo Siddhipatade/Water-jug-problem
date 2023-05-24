@@ -1,9 +1,11 @@
+#initialize the jug and thier capacity 
 a = int(input("Enter Jug A Capacity: "))
 b = int(input("Enter Jug B Capacity: "))
 ai = int(input("Initially Water in Jug A: "))
 bi = int(input("Initially Water in Jug B: "))
 af = int(input("Final State of Jug A: "))
 bf = int(input("Final State of Jug B: "))
+#print List Of Operations
 print("List Of Operations You can Do:\n")
 print("1.Fill Jug A Completely\n")
 print("2.Fill Jug B Completely\n")
