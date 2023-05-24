@@ -15,6 +15,7 @@ print("5.Pour From Jug A till Jug B filled Completely or A becomes empty\n")
 print("6.Pour From Jug B till Jug A filled Completely or B becomes empty\n")
 print("7.Pour all From Jug B to Jug A\n")
 print("8.Pour all From Jug A to Jug B\n")
+#loop 
 while ((ai != af or bi != bf)):
     op = int(input("Enter the Operation: "))
     if (op == 1):
